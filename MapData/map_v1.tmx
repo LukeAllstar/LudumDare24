@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Test1" tilewidth="16" tileheight="16">
+  <image source="../Content/Graphics/EvolutionTileset_3.png" width="128" height="64"/>
+ </tileset>
+ <tileset firstgid="33" name="EvolutionTileset_3" tilewidth="16" tileheight="16">
+  <image source="../Content/Graphics/EvolutionTileset_3.png" width="128" height="64"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUUAoUgVgJilWoZKYyFA8kgPmLWn4CgYH2Ey0BJxbMgaZGB4hVCWANqFo1LNgCzTxtHOqw6VHHgi3RzNPFoQ6bHgBRRggu
+  </data>
+ </layer>
+ <layer name="Objekte" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DkAr2BdgANgP5AO2CIAVga0GfAnx6A8g249I5UAACe0gHG
+  </data>
+ </layer>
+ <objectgroup name="Objektebene 1" width="20" height="20"/>
+</map>
